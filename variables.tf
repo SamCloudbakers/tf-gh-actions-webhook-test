@@ -9,3 +9,11 @@ variable "billing_account" {
 variable "folder_id" {
     type = string
 }
+
+variable "environment" {
+    type = string
+}
+
+variable "name" {
+    type = string
+}
